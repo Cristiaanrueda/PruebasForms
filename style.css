@@ -1,0 +1,16 @@
+fieldset{
+    background-color:darkred;
+    border-color: black;
+    border-radius: 20px;
+    border-width: 20px;
+    border-style: double;
+    
+}
+
+fieldset:hover{
+    background-color: orangered;
+    border-style: groove;
+    border-color:chartreuse;
+    border-radius: 20px;
+    border-width: 20px;
+}
