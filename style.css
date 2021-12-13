@@ -49,6 +49,9 @@ article{
     border-color: aliceblue;
     border-width: 20px;
     border-style: groove;
+    text-decoration:rgba(196, 83, 7, 0.89);
+    font-style: italic;
+    font-size:large;
 }
 
 #bifes {
@@ -64,6 +67,9 @@ article{
     border-color: aliceblue;
     border-width: 20px;
     border-style: groove;
+    text-decoration:rgba(196, 83, 7, 0.89);
+    font-style: italic;
+    font-size:large;
 }
 
 #churras {
@@ -79,4 +85,7 @@ article{
     border-color: aliceblue;
     border-width: 20px;
     border-style: groove;
+    text-decoration:rgba(196, 83, 7, 0.89);
+    font-style: italic;
+    font-size:large;
 }
