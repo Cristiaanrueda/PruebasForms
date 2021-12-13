@@ -39,14 +39,44 @@ article{
 #milas {
     background-color: crimson;
     padding: 12px;
+    border-radius: 20px;
+}
+
+#milas:hover{
+    background-color:tomato;
+    padding: 12px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-width: 20px;
+    border-style: groove;
 }
 
 #bifes {
     background-color: crimson;
     padding: 12px;
+    border-radius: 20px;
+}
+
+#bifes:hover {
+    background-color:tomato;
+    padding: 12px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-width: 20px;
+    border-style: groove;
 }
 
 #churras {
     background-color: crimson;
     padding: 12px;
+    border-radius: 20px;
+}
+
+#churras:hover{
+    background-color:tomato;
+    padding: 12px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    border-width: 20px;
+    border-style: groove;
 }
