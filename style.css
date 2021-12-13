@@ -14,3 +14,39 @@ fieldset:hover{
     border-radius: 20px;
     border-width: 20px;
 }
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family:monospace;
+    font-size: 40px;
+    padding: 20px;
+    color: rgba(202, 27, 15, 0.89);
+    background-color: darkblue;
+}
+
+body {
+    background-color:burlywood;
+}
+
+
+article{
+    display: inline-block;
+    padding-right: 250px;
+    text-align: center;
+}
+
+#milas {
+    background-color: crimson;
+    padding: 12px;
+}
+
+#bifes {
+    background-color: crimson;
+    padding: 12px;
+}
+
+#churras {
+    background-color: crimson;
+    padding: 12px;
+}
